@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="words">
+	    <item>טל</item>
+	    <item>גפן</item>
+		<item>שלום</item>
+		<item>מחשב</item>
+		<item>בקבוק</item>
+		<item>אקסבוקס</item>
+		<item>קלפים</item>
+		<item>לוח</item>
+		<item>מחק</item>
+		<item>טוש</item>
+		<item>ענבים</item>
+  </string-array>
+    
+</resources>

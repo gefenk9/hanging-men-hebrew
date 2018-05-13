@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">איש תלוי</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    
+    <string name="gallows">The Gallows</string>
+	<string name="head">The Head</string>
+	<string name="body">The Body</string>
+	<string name="arm">An Arm</string>
+	<string name="leg">A Leg</string>
+
+</resources>
