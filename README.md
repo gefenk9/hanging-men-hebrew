@@ -1,5 +1,5 @@
 # Hebrew Hanging Men Android app 
-[![Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/gefenk9/hanging-men-hebrew/releases/) 
+[![Releases](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/gefenk9/hanging-men-hebrew/releases/) 
 
 ### Google Play Installation 
 
