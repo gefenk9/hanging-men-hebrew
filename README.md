@@ -11,8 +11,8 @@
 
 
 ### App Screenshots
-[https://lh3.googleusercontent.com/FBJbSuXhtOIj2QVBYlpaHiM6Zy71VcYxCk_ugdramwNQatV1PTLMIc7m53kQQa-8VAU=w1517-h707-rw]
-[https://lh3.googleusercontent.com/bqdBx4rTGqO-EHa5SEEYSy9yoHLWADVFqZY84KcPMsME3_DiHACn6f4-DnSbZopmtw=w1517-h707-rw]
+[<img src="https://lh3.googleusercontent.com/FBJbSuXhtOIj2QVBYlpaHiM6Zy71VcYxCk_ugdramwNQatV1PTLMIc7m53kQQa-8VAU=w1517-h707-rw"]
+[<img src="https://lh3.googleusercontent.com/bqdBx4rTGqO-EHa5SEEYSy9yoHLWADVFqZY84KcPMsME3_DiHACn6f4-DnSbZopmtw=w1517-h707-rw"]
 
 **Note:** You must have [adb](https://developer.android.com/studio/releases/platform-tools.html) installed first!
 
